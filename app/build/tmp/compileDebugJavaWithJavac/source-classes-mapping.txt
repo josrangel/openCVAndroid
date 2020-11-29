@@ -1,0 +1,4 @@
+com/josrangel/opencvejemplo/BuildConfig.java
+ com.josrangel.opencvejemplo.BuildConfig
+com/josrangel/opencvejemplo/MainActivity.java
+ com.josrangel.opencvejemplo.MainActivity

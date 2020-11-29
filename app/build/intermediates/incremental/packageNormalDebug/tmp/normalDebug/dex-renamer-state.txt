@@ -1,0 +1,4 @@
+#Sun Nov 29 15:27:26 CST 2020
+base.0=/Users/jrangel/AndroidStudioProjects/OpenCVEjemplo/app/build/intermediates/dex/normalDebug/mergeDexNormalDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
